@@ -19,6 +19,9 @@
             </groups>
             <applications>
                 <application>
+                    <name>General</name>
+                </application>
+                <application>
                     <name>Disk</name>
                 </application>
                 <application>
@@ -1443,17 +1446,7 @@ https://community.netgear.com/t5/ReadyNAS-in-Business/Insane-disk-temp-readings-
             </discovery_rules>
             <httptests/>
             <macros/>
-            <templates>
-                <template>
-                    <name>Template SNMP Device</name>
-                </template>
-                <template>
-                    <name>Template SNMP Disks</name>
-                </template>
-                <template>
-                    <name>Template SNMP Processors</name>
-                </template>
-            </templates>
+            <templates/>
             <screens/>
         </template>
     </templates>
